@@ -1,6 +1,6 @@
 # Netflix-Custom-Dashboard-Using-Tableau
 
-In this Project I will use Tableau to create a custom dashboard that shows the analytics and data from 
+In this Project, I will use Tableau to create a custom dashboard that shows the analytics and data from a Netflix Dataset
 
 1. Total Movies and Tv shows by years
 2. Total Movies and Tv Shows by country
